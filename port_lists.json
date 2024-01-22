@@ -1,8 +1,8 @@
 [
     {
-        "name": "Ready to Run Bangers",
+        "name": "点击即玩",
         "image": "images/sausage.jpg",
-        "description": "Ports which are ready to run and are absolute bangers.",
+        "description": "优秀的移植作品，点击即玩！",
         "ports": [
             "rota.zip",
             "echo_chamber.zip",

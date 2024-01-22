@@ -1,8 +1,8 @@
 [
     {
-        "name": "Ready to Run Bangers",
+        "name": "点击即玩",
         "image": "images/banger-ports.jpg",
-        "description": "Ports which are ready to run and are absolute bangers.",
+        "description": "优秀的移植作品，点击即玩！",
         "ports": [
             "rota.zip",
             "echo_chamber.zip",
@@ -10,9 +10,9 @@
         ]
     },
     {
-        "name": "Puzzling Puzzles",
+        "name": "解谜盛宴",
         "image": "images/puzzling-ports.jpg",
-        "description": "Ponder, Probe, and Prowl through Puzzling Ports!",
+        "description": "在这些解密作品中思考、探索、徘徊！",
         "ports": [
             "nonny.zip",
             "tiny-crate.zip",
@@ -21,9 +21,9 @@
         ]
     },
     {
-        "name": "PortMaster Picks",
+        "name": "PortMaster 精选",
         "image": "images/portmaster-ports.jpg",
-        "description": "A selection of ports by the Masters of Ports. These quality ports are a great place to start with PortMaster.",
+        "description": "PortMaster 精选作品，这些优秀的移植作品是你游戏之旅的完美起点。",
         "ports": [
             "devilutionx.zip",
             "half-life.zip",
