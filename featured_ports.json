@@ -12,7 +12,7 @@
     {
         "name": "解谜盛宴",
         "image": "images/puzzling-ports.jpg",
-        "description": "在这些解密作品中思考、探索、徘徊！",
+        "description": "在这些解谜作品中思考、探索、徘徊！",
         "ports": [
             "nonny.zip",
             "tiny-crate.zip",
